@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\auean\desktop\3yp\invr\tracking\homography (pom configuration)\pomconfig (generate rectangle)\pomconfig\main.cpp(58): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+c:\users\auean\desktop\3yp\invr\tracking\homography (pom configuration)\pomconfig (generate rectangle)\pomconfig\main.cpp(59): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+  POMconfig.vcxproj -> C:\Users\auean\Desktop\3yp\InVR\Tracking\Homography (POM configuration)\POMconfig (generate rectangle)\x64\Debug\POMconfig.exe
+  POMconfig.vcxproj -> C:\Users\auean\Desktop\3yp\InVR\Tracking\Homography (POM configuration)\POMconfig (generate rectangle)\x64\Debug\POMconfig.pdb (Partial PDB)
